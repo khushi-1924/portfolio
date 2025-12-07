@@ -17,7 +17,7 @@ import logo from './logo.png';
 import logo_dark from './logo_dark.png';
 import mail_icon from './mail_icon.png';
 import mail_icon_dark from './mail_icon_dark.png';
-import profile_img from './profile-img.jpeg';
+import profile_img from './profile-img.jpg';
 import download_icon from './download-icon.png';
 import hand_icon from './hand-icon.png';
 import header_bg_color from './header-bg-color.png';
@@ -84,8 +84,8 @@ export const assets = {
 
 export const workData = [
     {
-        title: 'Quiz Galaxy',
-        description: 'Frontend Project',
+        title: 'QuickBlog',
+        description: 'Fullstack Project',
         bgImage: '/work-1.jpg',
     },
     {
@@ -102,7 +102,7 @@ export const workData = [
 
 export const serviceData = [
     { icon: assets.web_icon, title: 'Web Development', description: 'Built more than 10 websites' },
-    { icon: assets.coding_icon, title: 'DSA', description: 'Solved 250+ questions of platforms like LeetCode, GeeksForGeeks and HackerRank' },
+    { icon: assets.coding_icon, title: 'DSA', description: 'Solved 500+ questions of platforms like LeetCode, GeeksForGeeks and HackerRank' },
 ]
 
 export const infoList = [
